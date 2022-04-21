@@ -28,8 +28,8 @@ public class PaymentActivity extends AppCompatActivity {
 
     private RelativeLayout button;
 
-    private String SECRET_KEY = "sk_test_51KbjZ6J66nUl8jVa2Lq9uv5Gg7iLHYMIgSaQXhl8vq0Mqq1N4hgjOjNP2IpH46EIO2aIFwcAsZJS4TlNjcs0h1cq006NDeqjLa";
-    private String PUBLISHABLE_KEY = "pk_test_51KbjZ6J66nUl8jVa1SdCFnbfrbXLHGS1Rrh0zu7O7TCc3rwEdR8MzO0fVpOU3aZEEl8AZQfLXW6nns0Y4nMlr9i400wQZair12";
+    private String SECRET_KEY = "sk_test_51KpvHVGxCwE8wgTc2rfMYDJoiHgraDLgTDXb3t3V3I28sEJRVzj3mKcZOYEEERegujvEAcjBeVIctUCPOFFziy2900wEIq9Kdo";
+    private String PUBLISHABLE_KEY = "pk_test_51KpvHVGxCwE8wgTcO1qdgx20aN4EvllaHRiaGOn4z4XSFZOpOpGqoG0YgWJZmEIjNivuYlLWw8XavS94pZZdYE8e00hSo8oInc";
 
     private PaymentSheet paymentSheet;
 
